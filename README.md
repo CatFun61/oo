@@ -21,9 +21,11 @@
 
 |  Left  |  Center  |  Right  |
 |:-------|:--------:|--------:|
-|  Test  |   測試   |   123   |
-|   Hi   |   你好   |   NiHao |
+|  Test  |   測試   |   CeShi   |
+|   Hello   |   你好   |   NiHao |
 
 :smile:
 
 :+1:
+
+![nkust](nkust. "第一科大" )
