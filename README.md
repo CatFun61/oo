@@ -18,3 +18,12 @@
 [高科大](https://www.nkust.edu.tw/index.php)
 
 <https://www.nkust.edu.tw/index.php>
+
+|  Left  |  Center  |  Right  |
+|:-------|:--------:|--------:|
+|  Test  |   測試   |   123   |
+|   Hi   |   你好   |   NiHao |
+
+:smile:
+
+:+1:
