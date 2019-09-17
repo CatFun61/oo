@@ -15,3 +15,6 @@
       * 學號3：0624055 姓名3：林家瑋
       * 學號4：0624057 姓名4：呂佳恩
 ```
+[高科大](https://www.nkust.edu.tw/index.php)
+
+<https://www.nkust.edu.tw/index.php>
