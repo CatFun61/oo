@@ -1,5 +1,3 @@
-
-```csharp
 abstract class CShape
 {
   protected String color;
@@ -34,4 +32,3 @@ public class Main
     tri.show();
   }
 }
-``` 
